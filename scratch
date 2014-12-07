@@ -1,0 +1,2 @@
+  <td><%= link_to ‘Show’, '#' %></td>
+    <td><%= link_to ‘Delete’, '#' %></td>
